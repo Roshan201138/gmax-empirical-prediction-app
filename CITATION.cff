@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Gmax Empirical Prediction App"
+type: software
+authors:
+  - family-names: Roshan
+    given-names: Mohammad Jawed
+  - family-names: Correia
+    given-names: António Gomes
+  - family-names: Moldovan
+    given-names: Ionut Dragos
+  - family-names: Azenha
+    given-names: Miguel
+version: 1.0.0
+date-released: 2026-03-28
