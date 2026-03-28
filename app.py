@@ -17,7 +17,7 @@ Version: 1.0
 Date: 2026-03-28
 
 Contact:
-    (optional: jroshan2020@gmail.com)
+    (jroshan2020@gmail.com)
 
 License:
     MIT License
