@@ -33,7 +33,7 @@ streamlit run app.py
 ```
 
 ## Online App
-(After deployment, insert your Streamlit link here)
+(https://gmax-empirical-prediction.streamlit.app/)
 
 ## Repository Structure
 ```
